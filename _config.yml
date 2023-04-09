@@ -3,3 +3,5 @@ markdown: kramdown
 
 
 url: "https://r-majumdar.github.io/" 
+
+plugins: - jekyll-sitemap
